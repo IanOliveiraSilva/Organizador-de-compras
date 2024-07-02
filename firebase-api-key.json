@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "organizador-de-compras-10cce",
+    "private_key_id": "e012a330f585525e2517061d0f52ef9f79186ce9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDZ1vVLiPutB9cw\nCKVDnm95993DCuMNacAiADJPdugZVBy9Ev20HEy4v0oxLKq78W/s7Gt1rfYVGWCM\n8Kl3KenSYBL+YLEgqEoidTvoxhsLRqNVd92YgdAroJIVRgh9p5+3aEKBXYlWpfOx\nuZKhSJhSGw4B2BFeTUKZZvZdBO3YYGU4K1HWRXW49CzRxHtH8SysiNKGUFv96v28\nA9NrwVDLXSnNItoWT4Rpv5vCUXd44MaGtgPPAMWEgymQN63hLX8+tZ8Yyzb+mBK/\ncsSjI8R3k0v8TphAt6kBKenSMoSQdciyLYuwlPmPDBIoyFowxtwyX1tsYb+ERQ14\nlAIrrfBDAgMBAAECggEADlxp+mtS8DLKoGuJfZ41yiwpjgCrPEii9nrd1jhID9do\nN5zHZfbRpgJSYVCJBu/hSZTCdtUbmoN8Rn5dJbJ5LDnSNrvoIXeGv6PL6coZoVIs\nVWecD8BLGX0x9D4UNDh3Qo+Yhs/ETJaPLMHHpWNUS2FmOH/mkTl1sQhFKJe5GGEP\nT64LeBIbEsxyzgyV72kAiJEiF1TqNjr54ZQGQ6DOcwdI9gi4n0zQoL9dR+RP1OXF\nInFA1vLfcVxfqPCjcljUNEefP17wWOTdNPMCVXrDzxuFhvDnKmoizY5AXaisnK1S\nLz+GjkeMUPb0yDbAff5k9mjicy3GeQCDGFo5/bgtEQKBgQD3Vpeo1v241EN4LDWb\n3jM4NfIiIQkv408DOOSN05qJ6B5YUWjQHeIaGr6OecS1WmPQD5Ea+tJOQzdjseUj\n1tpKal07sObLDVbph5e5xBrsVkGt4mCHJzUiZZMvFBwoBFm9kQdqSCrx8KG4UnNr\nX7t+N3oHpNmrXrAiTHjyAuuAkQKBgQDhd+ieiERw2Tk/Jjst+2NcgaEbrJaCN/zC\nwKG5sLyuTsZMrgVtqUyuvc56cNYCuK+9e0xqBEgofqmoOUHWNczKDNpMLecazl85\nwrr/8JjXEjgwuTvyoAZKTp3fwD9oScA14EFPMSAi515eCLlS6LFdhITBERR/d1JB\nAeYhYA/NkwKBgQC0XkFaru13y9Mn35V4hSF07GIW4WCBu5HzF5oUkysvRkZawYNd\nwW0Q/E/aNpJsbe473B5FPoP+7qWF3kTrTdMCUW6MCQVFLgUjZ+4NWiUIFB7xXxRl\newIUg15CBrhBtmp7AzgVGWu343MLp5TjyHxCHtKuoFjbz8FCQeIxGlADAQKBgQCQ\ntBFidZhfSLq58cJ3f2jEvRl2Fm0+Q8p//3uMHobp4/rWybUILWjemUjEQljHxFpd\n5J0lSXw6KRifs6eyYDL/1gHgdHFnPd3Vx0mW64ZcOgBAHRIBZHzFAfHG4a6QMw0e\nRsADoEa8v/tLpJO0R01V9K/y7RBXwm/S8vIMp4dc6wKBgQD1Frw72Xw3mqYLCK0R\nSxFrwFfeG3LDNX8hJSe4W3xZGYxI/X8BwxC/OLwAMH46JNWPTPnLJjlU9KcJ18//\nG6svZ2poixO1hufSLlW29XuM8QHFifMEvrHMSmgj0Zy3SRuu5jdriHZNvnC1K9Ue\nF4vtiw9qYpX1yPXmCNgkTPrD5w==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-1q0q1@organizador-de-compras-10cce.iam.gserviceaccount.com",
+    "client_id": "109418720214401903193",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1q0q1%40organizador-de-compras-10cce.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
