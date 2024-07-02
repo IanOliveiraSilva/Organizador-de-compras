@@ -1,0 +1,19 @@
+{
+  "name": "organizador-de-compras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "admin": "^1.4.1",
+    "express": "^4.19.2",
+    "firebase": "^10.12.2",
+    "firebase-admin": "^12.2.0",
+    "nodemon": "^3.1.4"
+  }
+}

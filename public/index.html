@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Itens para a Casa</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha512-..." crossorigin="anonymous" />
+</head>
+
+<body>
+    <div class="container my-5">
+        <h1 class="text-center">Organizador de Compras</h1>
+        <form id="itemForm" class="text-white">
+            <div class="form-group">
+                <label for="name">Nome</label>
+                <input type="text" id="name" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="priority">Prioridade</label>
+                <select id="priority" class="form-control" required>
+                    <option value="sim">Sim</option>
+                    <option value="não">Não</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="room">Cômodo</label>
+                <select id="room" class="form-control" required>
+                    <option value="quarto">Quarto</option>
+                    <option value="escritorio">Escritório</option>
+                    <option value="banheiro">Banheiro</option>
+                    <option value="sala">Sala</option>
+                    <option value="cozinha">Cozinha</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="price">Valor</label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">R$</span>
+                    </div>
+                    <input type="number" id="price" class="form-control" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="link">Link</label>
+                <input type="url" id="link" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success ">Adicionar Item</button>
+        </form>
+    </div>
+    <div class="container my-5" id="room-list"></div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
