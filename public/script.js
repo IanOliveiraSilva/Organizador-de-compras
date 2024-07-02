@@ -134,7 +134,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <input type="hidden" id="room-${item.id}" value="${item.room}">
                                 <input type="hidden" id="priority-${item.id}" value="${item.priority}">
                                 <input type="hidden" id="link-${item.id}" value="${item.link}">
-                            `;
+                                <hr style="background-color: white;">
+                            `; 
                             itemList.appendChild(itemDiv);
 
                             subtotalRoom += parseFloat(item.value);
