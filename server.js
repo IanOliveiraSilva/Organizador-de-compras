@@ -8,6 +8,8 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
 });
 
+admin.firestore().settings({ ignoreUndefinedProperties: true });
+
 const db = admin.firestore();
 const app = express();
 const port = 3000;
@@ -16,15 +18,16 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 
 app.post('/addItem', async (req, res) => {
-  try {
-    const { name, value, link, room, priority, purchased } = req.body;
-    await db.collection('items').add({ name, value, link, room, priority, purchased });
-    res.status(200).send('Item added successfully');
-  } catch (error) {
-    res.status(500).send('Error adding item');
-  }
-});
-
+    try {
+      const { name, value, link, room, priority, purchased } = req.body;
+      await db.collection('items').add({ name, value, link, room, priority, purchased });
+      res.status(200).send('Item added successfully');
+    } catch (error) {
+      console.error('Error adding item:', error);
+      res.status(500).send('Error adding item');
+    }
+  });
+  
 app.post('/removeItem', async (req, res) => {
   try {
     const { id } = req.body;

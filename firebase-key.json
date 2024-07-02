@@ -1,14 +1,13 @@
 {
-    "type": "service_account",
-    "project_id": "organizador-de-compras-10cce",
-    "private_key_id": "82eba5801365b11d3029992e54ce1065be9cf606",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdq+w+rOLvcIHr\nblnCwrVxERGE8UFWt/+kPN5tuUHtDl6+wilLPHBiOBol3GG6GwD0IwE4fqYZtW6i\ndxx7Ex6k/C7/9U2kP2kMyPZFMaGVV38IFXgXFtHyXXpWXnV7EKzgqTjcSJqlJVIV\nXPIZ5ik06GxEiLX98rhO64WV5jhA3AuSM9RP4XmbGBaodUZyf9CK48LBNw7Gd8i2\ntySxlAQcBjkMwWmbS6WE7WuSJe4AQOQP3rFdrdVM6Eumari3X/fQEHw9lLxWVvD6\n5rhp1zmDuhqzspAWb/WvwOLyBlbaCFDFiOVOPNBwsofgSOCeUlKNk7Xyw7gr8iJ2\nZSgORvxTAgMBAAECggEAUFXJNWGkkM/+VZtVbm7wILzl0383hb0DKbthhPRZvxax\nIYLuQjTyKbZZS5VV2YOF0fSJsba8bZ7CLKDsMnJYbcRzKBH3hGnyoU6HacY14BCo\nmf5l2kBL8AEOoBR1kRcXAAhz8eliGi2vVMytdNNj5afB7Qh6pED9qKRUcmHPyzkH\nUQy00Hp+EfvGM68dQ/71az8uaBK+H2Mq7VKSghqqmmak73WzXkhF0kf2v0jDyQ+P\n4RUi0ek6WJkA5DozBHh7meqbqmlFsbANoH4n+0fWMkM85GXg8vBR8tzQuz1tANQC\nT+B4r39L0kT4TGj4IBQtEXiy57xUgK/6SBR8tkUQiQKBgQDvyO8gqBFDgrecScYj\n/AMuQR39dcLCbnSt5oHdbw708qVJl8aKSWQkJ7Wl3TrD/xtygStYyA0s1vhItiF4\nvL6rWLzydiRiUIguzXimdaiabhogXCh4IOnSs/1xBA2pxKueLTSb7JBOHbIAi+jH\nPw8Q5xNUG2WyXDPwAWYgErL0dQKBgQDsqWrsfRAA2CZFqzrFQpB+hd3wltZkJCzb\nc7knsXB5t5OffXz1t8PT0EqXW0SzRT205P426XZRPjV+wmwzsfH/GsTmbkej4Jpf\nI4bgil8hWi6msakvkOHc45F69huCc6b4gW1iOe8Kka5msvFos4lY74zDOybrpCDE\nShbrJyL0pwKBgQCAf+zuUkMWK8ob/kkp5ZcKxai9uMsLiUgMHZiAw1B/oj1DyAuE\n9jmtSn6FCZ7BhEgAQAqrxGGTIwzhYoFjg7qmdqKjSP7MlR21/zTl9+3H/LMRnnGt\nlu3Xlc9/Lk3oKdZSqSUlXkwjILTQqCmyBTAcvcjU7O29/L10pDtHet3eNQKBgBJf\nlM2HaBaosU/3Wzi1UkKAYhqrmzlrFZB0C4vpWrIYbn2TYIAzJCDtqtzVWSAR4BiL\nLrFUrrrf+Yc90Oiyh/cmPOMm7KjsZw+70lzcYUZVmgmXAWuP8/kSMdk6Aii+kdf5\nNGTL2qMXbFLM0bEvPxqIfoUpsnvY4jJbDixzfWNBAoGBAOCk1I+6PgpAkbx+vd/s\nZ2xv9uT+Wv1oCCwT/MYzIYfqmkdHrJlRApB66SPSboZzWnEz3afrunRrW+9U1Wsq\n1VHNdDCnvIqQPQxE1AIpYpEMEaLKvAq8YEXYNMY66LoNT75ePSTe6nDt/t5ypXAr\ntiv3lO7KYTwHewwRnS1JZY4p\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-1q0q1@organizador-de-compras-10cce.iam.gserviceaccount.com",
-    "client_id": "109418720214401903193",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1q0q1%40organizador-de-compras-10cce.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
-  }
-  
+  "type": "service_account",
+  "project_id": "organizador-de-compras-10cce",
+  "private_key_id": "acdb020168f9cb8a660c69efc68d5e17042c4428",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/eVtglSyybp1F\nXMEfZ7qJYNvpcS6SDpSkEeFsxrTUOkPqCH5Op61m8Hovn6IH4d80yAHw6PTCTG6/\norPYlCWF9iGgFoGdOqi6HBq5UtaW8d1MIUFRH947rnvwx5QzBmEOx5ox4Z+XPPbX\n1ZEQFgs1ySwqhvAPy9XoSOoZSv/nzjEmc5Y0f6vdRLMxg0TTAr7dpjZgO3c5smHu\nDX/FxFeX2vp2pq/uCQCPO260xB6jJPJ08MTMgjhR0dKhjKgvemhzcd+WzYJArzk6\necR7wM4hFQM+euF2xD/KNUG/JjyeI//4HMAgH+E5lgNiz/gFbNz3vjgUxZXA9RVQ\nMPukulMvAgMBAAECggEAFsoioSKVjlXyFsZidL12Nfxhpa2t+v5h8gvwG8VO0o/D\nc5XiirQUbyh3h+GPzzEIIxJx1ghe0XLNdQuwLOVSeK5XSY7u4GrnQuIuIBlcUdz5\nwkzsUZ6MZz1uTQtEIrVDVMIBzVFrGvzLmIbihtqeJ58JHbVahKwgiqQwZiWcwyx8\n5pieNyrNX7Os2k2+ctviaqMqUauYJMZKER11T9CbfCgc/u/DFyAM4KRUGZ4d4+Fh\nNYXeeXFUgwUVYGefbHHcLrRrxCg3etA6bfHpBtGICWifM54/APrNUaWXYFIa+bN4\nMDEHJscAgu6zF47+Oz89SkNkCpdnTwksZwmr/ozMoQKBgQDzYCpuFOteWDgw2+PB\nnwSD9GZ4cgV3LilPKe7ZwOwJ9li97j5Ripj91ClxYgC6W2uisxF4gVyHbJQ8scz3\nu9GGIwTHW64iJ5IiUfmzSIPBqnzfW0tLcGSDvIU+4TkrH0SoP/LXjJSivanQiV9l\n/HIj+FuUdwg8xrhYXs31ciE3vwKBgQDJZ/q8djtr/fxVPeATaZCYJN+HVfoUHkWa\nOBtrERxqOV1w9ErD1gPv73yPySrgJoju6Uvf6iPuYxJF+R/HP3fPULOj6XgbuVXN\nyuAV/V0u76zZ1CamVuseVPwKl90ClIeFuJVQbu9EamEfEqbOMhB8aHBWKeU8rEl3\n6tp2fIZAkQKBgQC7Siwc3thqmDVV1EInhLoy2efplMWD+/AqTbjTtlVvLTcJosgu\ndBxcaeMisCqjPytL38X4GIUean6BXsq/crhBI73PtUwCWLVq1+7y+0D5zrueH2GI\nQov3nSJlS2l1N/DcEapOGo9f1dlS9ASINYeZCs1fKWMbckn3J64TzqqlfQKBgBfI\ngpBcudmfzXtXai2AqsV8nTTDD1vu0zNJ6try01Mr4P/kqSuFC0P7GM915u0/P65O\nuFoBsSqGYnMG3xzNPt2pXv09JaTIdvxtN5cBK07OmK/EYKgF3Y/gYz7w/fU/Ct3c\nlS1BXFnM4hkkP7RbrxyxzIowOlS215okjpWtUMExAoGBAK/kCgaINMsiq9nvuLVf\nQ0eOsP1TCuGwkOzy0vb+sK8mqmFUUFk18Gzjqf7MaVXrvlgo3Q9ylLKmB7GqSpII\nG3GEzmTN8M9qbIGtSo6vd2jUDnuXBXLo8TlJMTteJATTjfUoHnBiEDkuITpmnOKW\nuRW03QZ/8c8ave7GJPBNbNI/\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1q0q1@organizador-de-compras-10cce.iam.gserviceaccount.com",
+  "client_id": "109418720214401903193",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1q0q1%40organizador-de-compras-10cce.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
