@@ -138,7 +138,9 @@ document.addEventListener('DOMContentLoaded', () => {
                             `; 
                             itemList.appendChild(itemDiv);
 
-                            subtotalRoom += parseFloat(item.value);
+                            if (!item.purchased) {
+                                subtotalRoom += parseFloat(item.value);
+                            }
                         });
 
                         roomDiv.appendChild(itemList);
@@ -153,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
 
                 const totalDiv = document.createElement('div');
-                totalDiv.innerHTML = `<hr style="background-color:white"><br><h4>Total: R$ ${totalGeral.toFixed(2)}</h3>`;
+                totalDiv.innerHTML = `<hr style="background-color:white"><br><h4>Total: R$ ${totalGeral.toFixed(2)}</h4>`;
                 itemsContainer.appendChild(totalDiv);
             })
             .catch(error => console.error('Error fetching items:', error));
